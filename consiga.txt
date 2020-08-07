@@ -1,0 +1,3 @@
+Van a tener un HOC que tendra toda la logica/state y 
+calculo de pizzas. Y ese HOC recibira un presentational 
+component que recibira por props la data que necesita mostrar
